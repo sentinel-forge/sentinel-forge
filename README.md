@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sentinel Forge</title>
+  <style>
+    body {
+      background:#0b0f14;
+      color:#e6e8eb;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      margin:0;
+      padding:40px;
+    }
+    h1 { font-size:2.2rem; }
+    p { max-width:620px; line-height:1.6; opacity:.85; }
+  </style>
+</head>
+<body>
+  <h1>Sentinel Forge</h1>
+  <p>Infrastructure-first systems for permanence, resilience, and independence.</p>
+</body>
+</html>
